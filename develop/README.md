@@ -34,5 +34,10 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_all_arns"></a> [all\_arns](#output\_all\_arns) | The ARNs for all users |
+| <a name="output_dynamodb_table_name"></a> [dynamodb\_table\_name](#output\_dynamodb\_table\_name) | The name of the DynamoDB table |
+| <a name="output_first_arn"></a> [first\_arn](#output\_first\_arn) | The ARN for the first user |
+| <a name="output_s3_bucket_arn"></a> [s3\_bucket\_arn](#output\_s3\_bucket\_arn) | The ARN of the S3 bucket |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
